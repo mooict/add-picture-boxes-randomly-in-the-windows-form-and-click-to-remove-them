@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Form Spawn and Click Picture Box MOO ICT", "Windows Form Spawn and Click Picture Box MOO ICT\Windows Form Spawn and Click Picture Box MOO ICT.csproj", "{6C4DA4D3-4594-4F4C-AABD-5EC8A210E22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4DA4D3-4594-4F4C-AABD-5EC8A210E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4DA4D3-4594-4F4C-AABD-5EC8A210E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4DA4D3-4594-4F4C-AABD-5EC8A210E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4DA4D3-4594-4F4C-AABD-5EC8A210E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B61B3EB-9C2A-4481-A12D-491A13F61C5E}
+	EndGlobalSection
+EndGlobal
